@@ -30,6 +30,9 @@ Some general results:
 ![R2](results2.png)
 
 ### Documentation
- A New Method for Face Recognition Using Convolutional Neural Network, Patrik KAMENCAY, Miroslav BENCO, Tomas MIZDOS, Roman RADIL
+
+A New Method for Face Recognition Using Convolutional Neural Network, Patrik KAMENCAY, Miroslav BENCO, Tomas MIZDOS, Roman RADIL
+
 https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
+
 https://keras.io/
