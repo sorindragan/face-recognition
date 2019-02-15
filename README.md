@@ -21,8 +21,7 @@ The first attempt was done using the train_test_spilt from sklearn on the entire
 The actual version keeps 20% of data for test: for every face, there are 10 photos and 2 will be for test - one specifically chosen in code and another random one. The visual tests at the end are done on the specifically chosen ones.
 After trying different parameters, the best results were obtained using batch_size = 20 and 10 epochs of training.
 Some general results:
--
-![R1](results1.png)
+- ![R1](results1.png)
 ![R2](results2.png)
 
 ### Documentation
